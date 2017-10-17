@@ -34,11 +34,11 @@ namespace gittytester
                         return retsym;
                     }
 
-                    return null; // massive faff
+                    return null; // massive faff made ludicrous rendering a lemon
                 }
                 else
                 {
-                    return null; // massive faff
+                    return null; // massive faff made ludicrous rendering a lemon
                 }
             }
             catch (SqlException sex)
